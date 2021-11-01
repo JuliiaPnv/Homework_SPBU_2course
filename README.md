@@ -1,1 +1,1 @@
-# SPBU_2course_3semester
+# Homework_SPBU_2course
