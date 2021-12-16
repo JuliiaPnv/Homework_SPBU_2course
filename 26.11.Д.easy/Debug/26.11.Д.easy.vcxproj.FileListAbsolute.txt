@@ -1,0 +1,2 @@
+D:\ПрогаС++\26.11.Д.easy\Debug\26.11.Д.easy.exe
+D:\ПрогаС++\26.11.Д.easy\Debug\26.11.Д.easy.pdb
